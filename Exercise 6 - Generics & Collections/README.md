@@ -13,3 +13,6 @@ This exercise focuses on the use of generics and collections in Java. The goal i
 1. Open the project in Visual Studio Code.
 2. Navigate to the `src` folder and find the main class to run.
 3. Use the `Run` to execute the code.
+
+https://github.com/user-attachments/assets/1961486d-c927-4447-8a98-8ff91d634a8f
+
