@@ -1,18 +1,15 @@
-## Getting Started
+## Exercise 6 - Generics & Collections
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This exercise focuses on the use of generics and collections in Java. The goal is to understand how to create and manipulate generic classes and various collection types such as lists, sets, and maps.
 
-## Folder Structure
+### Features
 
-The workspace contains two folders by default, where:
+- **Generic Classes**: Learn how to define and use generic classes.
+- **Collections**: Work with different types of collections including ArrayList, HashSet, and HashMap.
+- **Type Safety**: Ensure type safety with generics to avoid runtime errors.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### How to Run
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Open the project in Visual Studio Code.
+2. Navigate to the `src` folder and find the main class to run.
+3. Use the `Run` to execute the code.
