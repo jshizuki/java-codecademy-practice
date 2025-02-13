@@ -14,6 +14,8 @@ This exercise focuses on the use of generics and collections in Java. The goal i
 2. Navigate to the `src` folder and find the main class to run.
 3. Use the `Run` to execute the code.
 
+### Watch the Demo
+
+For a detailed walkthrough of this exercise, watch the demo video by clicking the image below:
+
 [![Watch the video](https://img.youtube.com/vi/kOuFbhp_K7M/0.jpg)](https://youtu.be/kOuFbhp_K7M)
-
-
