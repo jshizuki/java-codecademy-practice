@@ -14,8 +14,6 @@ This exercise focuses on the use of generics and collections in Java. The goal i
 2. Navigate to the `src` folder and find the main class to run.
 3. Use the `Run` to execute the code.
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOuFbhp_K7M?si=OzGKfQ7qkGUTgRBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
