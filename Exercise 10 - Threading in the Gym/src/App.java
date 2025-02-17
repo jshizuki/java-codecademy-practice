@@ -1,17 +1,20 @@
+import java.util.HashMap;
+
 public class App {
     public static void main(String[] args) throws Exception {
-      // Weight weight = Weight.getRandomWeight();
-      // System.out.println(weight);
-      // System.out.println(Weight.numOfWeightsInGym.get(weight));
+      Gym anytimeFitness = new Gym(5, new HashMap<>() {
+        {
+          put(MachineType.LEGPRESSMACHINE, 5);
+          put(MachineType.BARBELL, 5);
+          put(MachineType.SQUATMACHINE, 5);
+          put(MachineType.LEGEXTENSIONMACHINE, 5);
+          put(MachineType.LEGCURLMACHINE, 5);
+          put(MachineType.LATPULLDOWNMACHINE, 5);
+          put(MachineType.PECDECKMACHINE, 5);
+          put(MachineType.CABLECROSSOVERMACHINE, 5);
+        }
+      });
 
-      // MachineType machine = MachineType.getRandomEquipment();
-      // System.out.println(machine);
-      // System.out.println(machine.machineName);
-
-      // Exercise exercise1 = new Exercise();
-      // System.out.println(exercise1);
-
-      Member member1 = new Member(1);
-      member1.performRoutine();
+      anytimeFitness.openForToday();
     }
 }

@@ -4,7 +4,7 @@ public enum MachineType {
   LEGPRESSMACHINE("Leg Press"), BARBELL("Bar Bells"), SQUATMACHINE("Squat Machine"),
   LEGEXTENSIONMACHINE("Leg Extensions"), LEGCURLMACHINE("Leg Curls"),
   LATPULLDOWNMACHINE("Lat Pull Downs"), PECDECKMACHINE("Pec Deck Machine"),
-  CABLEACROSSOVERMACHINE("Cable Crossovers");
+  CABLECROSSOVERMACHINE("Cable Crossovers");
 
   public final String machineName;
 
